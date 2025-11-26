@@ -12,7 +12,7 @@ A prática demonstra como treinar, converter e executar um modelo real de Machin
 - Demonstrar o fluxo completo de TinyML:  
   **Treinamento → Conversão → Deploy → Inferência embarcada**
 - Normalizar dados embarcados de forma idêntica ao treinamento.
-- Executar inferências em ponto flutuante usando TFLM.
+- Executar inferências em ponto flutuante usando TFLM. Disponível em: https://github.com/raspberrypi/pico-tflmicro.git
 - Construir e imprimir a **matriz de confusão** 3×3.
 - Calcular a acurácia final diretamente no microcontrolador.
 - Integrar código C/C++ ao TensorFlow Lite Micro via wrapper próprio.
