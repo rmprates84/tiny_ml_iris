@@ -1,7 +1,7 @@
 # TinyML – Classificação do Dataset Iris no Raspberry Pi Pico W  
 ### Prática com Rede Neural Artificial (RNA) para Microcontroladores
 
-Este projeto implementa uma **Rede Neural Artificial (RNA)** embarcada no **Raspberry Pi Pico W**, utilizando o **TensorFlow Lite Micro (TFLM)** para executar inferência diretamente no microcontrolador — abordagem típica de **TinyML**.
+Este projeto implementa uma **Rede Neural Artificial (RNA)**, Perceptron Multicamadas (MLP), embarcada no **Raspberry Pi Pico W**, utilizando a biblioteca **TensorFlow Lite Micro (TFLM)** para executar inferência diretamente no microcontrolador — abordagem típica de **TinyML**.
 
 A prática demonstra como treinar, converter e executar um modelo real de Machine Learning em um dispositivo de recursos extremamente limitados.
 
