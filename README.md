@@ -10,7 +10,7 @@ A prática demonstra como treinar, converter e executar um modelo real de Machin
 ## 📌 Objetivos
 
 - Demonstrar o fluxo completo de TinyML:  
-  **Treinamento → Conversão → Deploy → Inferência embarcada**
+  **Criação do modelo → Treinamento → Conversão → Deploy → Inferência embarcada**
 - Normalizar dados embarcados de forma idêntica ao treinamento.
 - Executar inferências em ponto flutuante usando TFLM. Disponível em: https://github.com/raspberrypi/pico-tflmicro.git
 - Construir e imprimir a **matriz de confusão** 3×3.
