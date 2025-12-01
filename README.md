@@ -3,7 +3,7 @@
 
 Este projeto implementa uma **Rede Neural Artificial (RNA)**, Perceptron Multicamadas (MLP), embarcada no **Raspberry Pi Pico W**, utilizando a biblioteca **TensorFlow Lite Micro (TFLM)** para executar inferência diretamente no microcontrolador — abordagem típica de **TinyML**.
 
-A prática demonstra como treinar, converter e executar um modelo real de Machine Learning em um dispositivo de recursos extremamente limitados.
+A prática demonstra como treinar, converter e executar um modelo real de Machine Learning em um dispositivo de recursos extremamente limitados. Como conteúdo complementar, o modelo foi treinado usando o google colab, o link do código está disponível em: https://colab.research.google.com/drive/1MnmXluBn_oCctJ-MPaiS2RxqsRbwg4Fk?usp=sharing 
 
 ---
 
