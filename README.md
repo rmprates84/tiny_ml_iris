@@ -49,7 +49,7 @@ Responsável por:
 ---
 
 ### `tflm_wrapper.h` / `tflm_wrapper.cpp`
-Wrapper em C/C++ para o TensorFlow Lite Micro.
+Wrapper em C/C++ para o TensorFlow Lite Micro. Forma uma camada de abstração que encapsula o TensorFlow Lite Micro, oferecendo funções simples para inicializar o modelo, passar entradas e pegar saídas, sem que você precise lidar diretamente com todos os detalhes internos da biblioteca.
 
 - Configura a arena de tensores.  
 - Carrega o modelo embarcado (`iris_mlp_float_tflite`).  
